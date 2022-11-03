@@ -1,0 +1,40 @@
+.card {
+    background: #3d2f2a;
+    padding: 2rem 4rem;
+    color: #bfb8b7;
+    cursor: pointer;
+    height: 330px;
+    width: auto;
+    margin: 0 10px 0;
+}
+.card p {
+    padding-top: 1rem;
+    line-height: 150%;
+}
+.expanded {
+    max-width: 28rem;
+}
+.project-description {
+    white-space: normal;
+    font-size: 16px;
+    margin-bottom: 1rem;
+}
+.project-image {
+    height: 220px;
+    width: auto;
+    border-radius: .5rem;
+    margin-bottom: 1.3rem;
+}
+.project-link {
+    text-decoration: none;
+    color: #bfb8b7;
+    font-size: 14px;
+}
+.project-link:hover {
+    text-decoration: underline;
+}
+.project-link-icon {
+    margin-left: 2px;
+    margin-top: 0;
+}
+

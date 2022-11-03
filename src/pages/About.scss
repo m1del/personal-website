@@ -1,0 +1,60 @@
+.about-page {
+    height: 100vh;
+    display: block;
+    text-align: center;
+
+    .intro-par{
+        padding: 2rem;
+    }
+    
+    .title{
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .title-msg {
+        font-weight: 800;
+        font-size: 40px;
+    }
+
+    .about-info {
+        margin: auto;
+        display:flex;
+        width: 70%;
+        margin-top: 1.8rem;
+        justify-content: center;
+        align-items: center;
+        
+        .headshot{
+            width: 250px;
+            border-radius: 100em;
+            box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+        }
+        .about-me {
+            text-indent: 1.2rem;
+            display: block;;
+            font-size: 18px;
+            text-align: left;
+            margin-left: 1.8rem;
+        }
+    }
+
+    .project-header{
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .project-msg {
+        font-weight: 800;
+        font-size: 40px;
+        margin: 0;
+        padding: 0;
+    }
+    .project-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.cards-array{
+    display: flex;
+}

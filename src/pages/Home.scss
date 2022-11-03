@@ -1,0 +1,16 @@
+.home-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    .logo-container {
+        .main-logo {
+            width: 1000px;
+        }
+        .logo-caption {
+            font-size: 22px;
+            font-weight: 700;
+        }
+    }
+}
