@@ -32,7 +32,7 @@ function About() {
           stack='React.js'
           img={pomobreak}
           desc='With the shift to online schools during COVID, focusing on academics have become even more
-          difficut. Our team developed an app, aimed at the youth, which will help the keep on task using the
+          ldifficut. Our team developed an app, aimed at the youth, which will help them keep on task using the
           Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks.'
           link={'https://github.com/victoriadealba/Pomobreak'}
           />
