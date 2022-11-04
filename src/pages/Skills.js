@@ -12,7 +12,7 @@ function Skills() {
           My Expertise
         </h1> 
         <div className='skill-section'>
-        <HiComputerDesktop size={60}/>
+        <HiComputerDesktop size={80}/>
         <h2 className='skill-area'>
           Software Development
         </h2>

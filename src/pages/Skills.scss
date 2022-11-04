@@ -138,3 +138,10 @@
         transform: rotateX(90deg);
     }
 }
+
+@media only screen and (max-width: 1200px) {
+    .skills-page .text-container .skill-desc {
+        margin-left: 2rem;
+        margin-top: 0;
+    }
+}
