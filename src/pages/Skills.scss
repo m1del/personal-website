@@ -6,7 +6,7 @@
     text-align: center;
 
     .text-container {
-        width: 50rem;
+        max-width: 50rem;
         text-align: left;
         margin: 5rem;
 
@@ -144,4 +144,28 @@
         margin-left: 2rem;
         margin-top: 0;
     }
+}
+
+//phones
+@media only screen and (max-width: 871px) {
+    .skills-page {
+        max-width: 100%;        
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+        .text-container {
+            margin: 2rem;
+            padding: 2rem;
+            height: auto;            
+          }
+
+
+        .cube-outer {
+            width: 100%;
+            height: auto;
+        }
+      }
+      
 }

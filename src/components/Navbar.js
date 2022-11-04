@@ -13,6 +13,7 @@ function Navbar() {
   }
 
   return (
+    <div id='parent'>
     <header>
       <div>
         <a href='/'>
@@ -54,6 +55,7 @@ function Navbar() {
         <FaBars size={30}/>
       </button>
     </header>
+    </div>
   )
 }
 

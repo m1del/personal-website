@@ -100,3 +100,22 @@
         }
     }
 }
+
+@media only screen and (max-width: 650px) {
+    .contact-page {
+        width: 100%;
+        height: auto;
+
+        .contact-desc {
+            max-width: 90%;
+            margin: 2rem;
+        }
+
+        .text-content {
+            .contact-form {
+                max-width: 90%;
+                margin: 1rem;
+            }
+        }
+    }
+}
