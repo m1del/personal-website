@@ -53,9 +53,7 @@ function Navbar() {
       <button className='nav-btn' onClick={showNavbar}>
         <FaBars size={30}/>
       </button>
-
     </header>
-
   )
 }
 
