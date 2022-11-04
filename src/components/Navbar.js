@@ -45,14 +45,14 @@ function Navbar() {
           </li>
           <li>
             <button onClick={showNavbar} className='nav-btn nav-close-btn'>
-              <FaTimes size={20}/>
+              <FaTimes size={30}/>
             </button>
           </li>
       </ul>
       </nav>
 
       <button className='nav-btn' onClick={showNavbar}>
-        <FaBars size={20}/>
+        <FaBars size={30}/>
       </button>
     </header>
     </div>
