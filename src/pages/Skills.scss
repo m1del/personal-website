@@ -112,8 +112,6 @@
                 
             }
         }
-
-
     }
 }
 
@@ -166,6 +164,14 @@
             width: 100%;
             height: auto;
         }
-      }
-      
+      }     
+}
+
+@media only screen and (max-width: 523px) {
+
+    .skills-page .cube-container {
+        overflow: visible;
+        padding: 5rem;
+    }
+
 }
