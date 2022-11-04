@@ -12,7 +12,7 @@ function Contact() {
     emailjs.sendForm('portfolio-emails', 'template_7tflbd5', form.current, 'CJQsta42gxvpu8mKb')
       .then((result) => {
           console.log(result.text);
-          alert('Messge Sent Successfully!')
+          alert('Message Sent Successfully!')
           window.location.reload(false)
       }, (error) => {
           console.log(error.text);
