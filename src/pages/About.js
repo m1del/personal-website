@@ -22,8 +22,8 @@ function About() {
           title='TI-Roads '
           stack='C++ | Graphs'
           img={tiroads}
-          desc='Graphs are one of the most important data structures in addressing real-world problem that involve
-          networks. In this case, we developed a roadmap of Texas using a graph and public road data. Further improvements
+          desc='Graphs are one of the most important data structures in addressing real-world problems that involve
+          networks. In this case, we developed a roadmap of Texas using a graph structure and public road data. Further improvements
           would involve developing a GUI to better interface with a user.'
           link={'https://github.com/ThePowerpuffGirls-tm/TI-Roads'}
           />
@@ -31,9 +31,10 @@ function About() {
           title='Pomobreak'
           stack='React.js'
           img={pomobreak}
-          desc='With the shift to online schools during COVID, focusing on academics have become even more
-          ldifficut. Our team developed an app, aimed at the youth, which will help them keep on task using the
-          Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks.'
+          desc='With the shift to online schools during COVID, staying focused has become even harder. 
+          Our team developed a productivity app, aimed at students, which will help them keep on task using the
+          Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks. Further developed 
+          ideas involve importing mini-games to render during break times.'
           link={'https://github.com/victoriadealba/Pomobreak'}
           />
     </div>
