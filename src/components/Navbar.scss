@@ -63,9 +63,13 @@ header .nav-btn {
         width: 6rem;
     }
 	header .nav-btn {
+        position: absolute;
+        top: 0;
+        right: 0;
 		visibility: visible;
 		opacity: 1;
         color: #3d2f2a;
+        padding-right: .5rem;
 	}
 
 	header nav {
@@ -100,6 +104,7 @@ header .nav-btn {
 		position: absolute;
 		top: 2rem;
 		right: 2rem;
+        color: #bfb8b7;
 	}
 
 	nav a {
