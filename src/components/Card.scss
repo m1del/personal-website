@@ -3,9 +3,10 @@
     padding: 2rem 4rem;
     color: #bfb8b7;
     cursor: pointer;
-    height: 21rem;
+    min-height: 21rem;
+    height: auto;
     width: auto;
-    margin: 0 10px 0;
+    margin: 0 10px 10px 0;
 }
 .card p {
     padding-top: 1rem;
