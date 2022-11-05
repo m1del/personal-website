@@ -1,5 +1,6 @@
 import emailjs from '@emailjs/browser';
 import { useRef } from 'react';
+import ReCAPTCHA from "react-google-recaptcha";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import './Contact.scss';
 
@@ -65,6 +66,9 @@ function Contact() {
                 value='SEND'/>
               </li>
             </ul>
+            <ReCAPTCHA
+            sitekey={process.env.REACT_APP_SITE_KEY}
+            />
           </form>
         </div>
 
