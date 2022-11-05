@@ -67,7 +67,7 @@ function Contact() {
               </li>
             </ul>
             <ReCAPTCHA
-            sitekey={process.env.REACT_APP_SITE_KEY}
+            sitekey={'6Lf2lt0iAAAAABXIsXQ_UOW1_6U2aFobRT_K2vkg'}
             />
           </form>
         </div>
