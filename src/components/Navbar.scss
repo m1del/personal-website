@@ -56,12 +56,17 @@ header .nav-btn {
 
 @media only screen and (max-width: 1024px) {
     header {
-        height: 2.5rem;
+        height: 3.5rem;
         z-index: 99;
     }
 
     .navLogo {
-        width: 6rem;
+        width: 8rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: .5rem;
+        padding-top: .3rem;
     }
 	header .nav-btn {
         position: absolute;
@@ -70,7 +75,7 @@ header .nav-btn {
 		visibility: visible;
 		opacity: 1;
         color: #3d2f2a;
-        padding-right: .5rem;
+        padding: .8rem;
 	}
 
 	header nav {
@@ -112,4 +117,5 @@ header .nav-btn {
 		font-size: 1.4rem;
         color: #bfb8b7;
 	}
+
 }
