@@ -33,8 +33,14 @@ function Card({title, stack, img, desc, link}) {
           {/* Fade out Project Image */}
 
           {/* PROJECT TITLE and TECH STACK */}
-          <motion.h1 layout='position' style={{fontSize: '30px'}}>{title}</motion.h1>
-          <motion.h4 layout='position' style={{fontSize: '15px'}}>{stack}</motion.h4>
+          <motion.h1 layout='position' style={{fontSize: '32px'}}>{title}</motion.h1>
+          <motion.h4 layout='position' style={{fontSize: '18px'}}>{stack}</motion.h4>
+
+          {
+            !isOpen && (
+              <motion.h5 layout='position' id='mobileCardSuggest' style={{fontSize: '14px'}}>Show more</motion.h5>
+            )
+          }
           {/* on click project description */}
           {isOpen && (
           <motion.div 
