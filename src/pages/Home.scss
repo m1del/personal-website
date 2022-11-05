@@ -9,9 +9,14 @@
             width: 100%;
         }
         .logo-caption {
-            font-size: 1.5rem;
-            font-size: 2vw;
+            font-size: 2rem;
             font-weight: 700;
         }
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .home-page .logo-container .logo-caption {
+        font-size: 1.2rem;
     }
 }
