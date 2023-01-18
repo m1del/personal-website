@@ -1,6 +1,7 @@
 import Headshot from '../assets/headshot.jpg';
 import jiating from '../assets/jiating.png';
 import pomobreak from '../assets/pomobreak.png';
+import studyhub from '../assets/sh-big.png';
 import tiroads from '../assets/ti-roads.png';
 import Card from '../components/Card';
 import './About.scss';
@@ -36,6 +37,16 @@ function About() {
           Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks. Further developed 
           ideas involve importing mini-games to render during break times.'
           link={'https://github.com/victoriadealba/Pomobreak'}
+          />
+          <Card 
+          title='StudyHub'
+          stack='UI/UX Design with Balsamiq'
+          img={studyhub}
+          desc='With the shift to online schools during COVID, staying focused has become even harder. 
+          Our team developed a productivity app, aimed at students, which will help them keep on task using the
+          Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks. Further developed 
+          ideas involve importing mini-games to render during break times.'
+          link={'https://sites.google.com/view/cen4722-team-8/home?authuser=0'}
           />
     </div>
   ];
