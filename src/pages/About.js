@@ -42,10 +42,9 @@ function About() {
           title='StudyHub'
           stack='UI/UX Design with Balsamiq'
           img={studyhub}
-          desc='With the shift to online schools during COVID, staying focused has become even harder. 
-          Our team developed a productivity app, aimed at students, which will help them keep on task using the
-          Pomodoro method. We also increase engagement by including relaxing tasks the user can do durng breaks. Further developed 
-          ideas involve importing mini-games to render during break times.'
+          desc='For newcomers to the University of Florida campus, a common issue is the unfamiliarity of the area.  
+          Our team, through thorough user research and product testing, developed a prototype of this app.
+          The full process and demo is documented on our website below.'
           link={'https://sites.google.com/view/studyhub-project/home'}
           />
     </div>
