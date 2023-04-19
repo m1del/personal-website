@@ -17,7 +17,7 @@ function Card({title, stack, img, desc, link}) {
         style={{borderRadius: '1rem', boxShadow: 'rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px'}}
         >
           {/* PROJECT IMAGE */}
-          {
+          { // i eat
           !isOpen && 
           (
           <motion.img
