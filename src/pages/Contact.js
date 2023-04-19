@@ -79,7 +79,7 @@ function Contact() {
           <a href='https://github.com/m1del' target="_blank" rel="noopener noreferrer">
             <FaGithub className='external-link' size={50}/>
           </a>
-          <a href='https://www.instagram.com/midehl//' target="_blank" rel="noopener noreferrer">
+          <a href='https://www.instagram.com/midehl/' target="_blank" rel="noopener noreferrer">
             <FaInstagram className='external-link' size={50}/>
           </a>
       </div>
