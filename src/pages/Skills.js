@@ -47,7 +47,7 @@ function Skills() {
         </div>
         <p className='skill-desc'>
           Experienced in using neural networks, specifically CNN for deep learning. Knowledge is mainly centered around using the
-          <strong>Pytorch</strong> framework, with minor experience in <strong>TensorFlow</strong> and <strong>Keras</strong>.
+          <strong>Pytorch</strong> framework, with experience in <strong>TensorFlow</strong> and <strong>Keras</strong> for anomaly detection.
           Currently utilizing <strong>HuggingFace</strong> platform to utilize and develop around
           their <strong>vision transformers</strong> library.
         </p>
