@@ -1,4 +1,4 @@
-import Headshot from '../assets/headshot.jpg';
+import Headshot from '../assets/headshot_ippd.png';
 import jiating from '../assets/jiating.png';
 import pomobreak from '../assets/pomobreak.png';
 import studyhub from '../assets/sh-big.png';
