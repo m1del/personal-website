@@ -61,23 +61,30 @@ function About() {
             <img className='headshot' src={Headshot} alt='headshot' />
             <div className='about-me-container'>
             <p className='about-me'>
-            Third-year computer science student, future software engineer. 
-            My interests in information technology and software development 
-            have brought me to the wonderful University of Florida, where I 
-            am working on my B.S. in Computer Science with a minor in Music Theory.
+              <strong>
+                🚀 Aspiring Software Engineer | B.S. Computer Science Student | MLOps & Full-Stack Enthusiast 🚀
+                </strong>
             </p>
             <p className='about-me'>
-              I immigrated from the Philippines when I was a child and have been living
-              in Florida since. I've always loved playing with computers and instruments, 
-              which have fostered my interest into a full-blown lifestyle. I love
-              bringing my ideas to fruition, whether it is software or a melody.
+              Hi, I'm John Miclat, a Computer Science student at the University of Florida, weaving through the dynamic realm of software engineering with a blend of precise technical skills and inventive problem-solving. Specializing in DevOps/MLOps, my journey in technology orbits around developing, deploying, and optimizing software solutions that elevate user experiences and operational efficiencies.
             </p>
-
             <p className='about-me'>
-              I am currently looking for software engineering internships as I pursue
-              my studies. My interests are in web developement, machine learning, and
-              cloud technologies. However, in my inexperience, I often find myself exploring
-              other topics. I am always eager to learn about new technologies!
+              🔍 <strong>Specializations:</strong> Full-Stack Development | DevOps & MLOps Engineering | Scrum Mastering | Automated Task Scheduling | CI/CD Pipelines Design & Optimization
+            </p>
+            <p className='about-me'>
+              🛠 <strong>Tech Stack:</strong> Java | C++ | Python | JavaScript | HTML/CSS | React/Node | Flask | SFML | Pytorch | GitLab Ci/CD | Docker | Nginx | SLURM | Agile
+            </p>
+            <p className='about-me'>
+              🔄 <strong>Agile Advocate:</strong> With experiences both as a Scrum Master and Project Manager, I champion Agile methodologies, ensuring products evolve through collaborative, iterative, and user-centric frameworks.
+            </p>
+            <p className='about-me'>
+              🌱 <strong>Continual Learner:</strong> My academic exploration stretches beyond data structures, algorithm analysis, UX design, and networking, bridging to a minor in Economics, where I delve into the analytical and strategic facets of economic theories and applications.
+            </p>
+            <p className='about-me'>
+              🤝 <strong>Interpersonal Savvy:</strong> Translating my experiences from the fast-paced restaurant industry, I bring to the tech world not only my ability to thrive under pressure but also a knack for fostering collaborative environments, ensuring seamless team dynamics, and client interactions.
+            </p>
+            <p className='about-me'>
+              💬 <strong>Let's Connect!</strong> Whether you're passionate about tech innovations, seeking collaboration, or simply wish to chat about the exciting world of software engineering, feel free to reach out!
             </p>
             </div>
         </div>
