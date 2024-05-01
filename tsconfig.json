@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    /* Ease Path Imports*/
     "baseUrl": ".",
     "paths": {
       "@/*": [
