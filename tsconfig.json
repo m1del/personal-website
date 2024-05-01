@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    /* Ease Path Imports*/
+    /* Resolve Paths for Shad */
     "baseUrl": ".",
     "paths": {
       "@/*": [
